@@ -42,9 +42,9 @@ is data, not code; changing a number there is a design decision.
 |---|---|
 | **Role** | instrument · CAPP |
 | **Local** | `~/work/capp/instruments/half-second` |
-| **GitHub** | — none |
+| **GitHub** | [pvcomms/half-second](https://github.com/pvcomms/half-second) |
 | **Live** | — not deployed |
-| **Surface** | private — local prototype, synthetic specimen |
+| **Surface** | public — prototype on GitHub, synthetic data |
 
 The screen does not persuade you; it moves you, and you write the story afterwards.
 
