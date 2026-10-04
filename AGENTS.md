@@ -50,7 +50,7 @@ The screen does not persuade you; it moves you, and you write the story afterwar
 
 **How it relates to the whole.** A sense-making tool you can open and use. It must argue something about perception — otherwise it is a tool and belongs in ~/personal/tools/.
 
-Siblings (instrument, capp): `chronology`, `nervous-system-sandbox`, `stop-flowing`, `suji`, `terra-cognita`, `think-forward-reverse`, `venn`.
+Siblings (instrument, capp): `act`, `alarm`, `attention`, `bearing`, `botec`, `break`, `canon`, `catalogue`, `chronology`, `circuits`, `course`, `crowd`, `dialogue`, `distribution`, `fence`, `flow`, `margin`, `mask`, `muster`, `nervous-system-sandbox`, `normal`, `oblique`, `overview`, `panel`, `provenance`, `real-ideal`, `sieve`, `slice`, `spine`, `stop-flowing`, `suji`, `tack`, `terra-cognita`, `think-forward-reverse`, `toll`, `unison`, `venn`, `way`, `wish`.
 
 The two trees are `~/work/capp/` (the Center) and `~/personal/` (everything else). `~/Code/` is a compatibility symlink farm — never build there.
 
